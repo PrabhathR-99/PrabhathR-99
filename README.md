@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Prabhath Rathnayaka
 #### Designing & Developing
-![Designing & Developing](https://media-exp1.licdn.com/dms/image/C5616AQGFKkaOTwjQ7Q/profile-displaybackgroundimage-shrink_350_1400/0/1641719352261?e=1648080000&v=beta&t=nJLfoLgjwCMNDkywD97sjtkRwFSSZ42Qn4vhTyQl3YI)
+![Designing & Developing](https://giphy.com/gifs/SWoSkN6DxTszqIKEqv)
 
 I do design and development. I enjoy wireframing, UX & UI in general.
 
