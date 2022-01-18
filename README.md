@@ -3,6 +3,7 @@
 ![Designing & Developing](https://media-exp1.licdn.com/dms/image/C5616AQGFKkaOTwjQ7Q/profile-displaybackgroundimage-shrink_350_1400/0/1641719352261?e=1648080000&v=beta&t=nJLfoLgjwCMNDkywD97sjtkRwFSSZ42Qn4vhTyQl3YI)
 
 I do design and development. I enjoy wireframing, UX & UI in general.
+
 I also enjoy learning languages and frameworks like React. 
 
 Skills: REACT / JS / Bootstrap / HTML / CSS
