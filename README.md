@@ -11,8 +11,16 @@ Currently, I'm an undergraduate in Computing and Information Systems at the Saba
 Skills: REACT / JS / Bootstrap / HTML / CSS
 
 
+<a href="https://github.com/PrabhathR-99">
+  <img align="left" alt="Prabhath's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+</a>
+<a href="https://www.facebook.com/prabath.rathnayaka.50">
+  <img align="left" alt="Prabhath | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+</a>
+<a href="www.linkedin.com/in/prabhath-rathnayaka-01203b217">
+  <img align="left" alt="Prabhath's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PrabhathR-99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prabhath-rathnayaka-01203b217//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/prabath.rathnayaka.50)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrabhathR-99&show_icons=true&count_private=true)  
 
