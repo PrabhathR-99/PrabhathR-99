@@ -6,6 +6,8 @@ I do design and development. I enjoy wireframing, UX & UI in general.
 
 I also enjoy learning languages and frameworks like React. 
 
+Currently, I'm an undergraduate in Computing and Information Systems at the Sabaragamuwa University of Sri Lanka.
+
 Skills: REACT / JS / Bootstrap / HTML / CSS
 
 
