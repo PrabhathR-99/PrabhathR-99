@@ -15,9 +15,7 @@ Skills: REACT / JS / Bootstrap / HTML / CSS
 <a href="https://github.com/PrabhathR-99">
   <img align="left" alt="Prabhath's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<a href="https://www.facebook.com/prabath.rathnayaka.50">
-  <img align="left" alt="Prabhath | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
+
 <a href="https://www.linkedin.com/public-profile/settings">
   <img align="left" alt="Prabhath's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
